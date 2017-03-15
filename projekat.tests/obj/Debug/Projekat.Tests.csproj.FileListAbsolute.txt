@@ -1,0 +1,112 @@
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Projekat.Tests.dll.config
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Projekat.Tests.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Projekat.Tests.pdb
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Projekat.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Owin.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\EntityFramework.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Projekat.pdb
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\EntityFramework.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\obj\Debug\Projekat.Tests.csprojResolveAssemblyReference.cache
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\obj\Debug\Projekat.Tests.dll
+C:\Users\mlade\Desktop\Projekat\Projekat.Tests\obj\Debug\Projekat.Tests.pdb
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Projekat.Tests.dll.config
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Projekat.Tests.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Projekat.Tests.pdb
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Projekat.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Owin.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\EntityFramework.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Projekat.pdb
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\EntityFramework.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\obj\Debug\Projekat.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\obj\Debug\Projekat.Tests.dll
+C:\Users\dell\Desktop\New folder\Prvi-projekat-master\Prvi-projekat-master\Projekat.Tests\obj\Debug\Projekat.Tests.pdb
